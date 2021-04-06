@@ -40,4 +40,12 @@ public class CatTest {
         Assert.assertEquals(givenId, retrievedId);
     }
 
+    @Test
+    public void testSpeak(){
+
+
+
+
+
+    }
 }
